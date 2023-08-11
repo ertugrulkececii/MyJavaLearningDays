@@ -1,4 +1,4 @@
-package day02_dataCasting;
+package B_dataCasting;
 
 import java.util.Scanner;
 

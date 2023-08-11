@@ -1,4 +1,4 @@
-package day02_dataCasting;
+package B_dataCasting;
 
 public class A01_Question1 {
     public static void main(String[] args) {

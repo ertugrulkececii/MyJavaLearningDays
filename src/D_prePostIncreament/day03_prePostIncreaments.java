@@ -1,4 +1,4 @@
-package day03_prePostIncreament;
+package D_prePostIncreament;
 
 public class day03_prePostIncreaments {
     public static void main(String[] args) {

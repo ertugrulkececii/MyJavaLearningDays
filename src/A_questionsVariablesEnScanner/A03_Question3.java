@@ -1,4 +1,4 @@
-package day01_questionsVariablesEnScanner;
+package A_questionsVariablesEnScanner;
 
 import java.util.Scanner;
 
